@@ -1,4 +1,4 @@
-# tugas-Laravel
+# tugas 1-Laravel
 
 Nama: Ferdinan Ardiyanto 
 NIM: 25.12.3723
